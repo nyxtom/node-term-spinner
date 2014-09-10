@@ -1,0 +1,22 @@
+{
+  "name": "spin.js",
+  "description": "Terminal spinner for node.js (port of visionmedia's go-spin, since I like the spinners by default)",
+  "version": "0.1.0",
+  "homepage": "https://github.com/nyxtom/spin.js",
+  "author": {
+    "name": "Thomas Holloway",
+    "email": "nyxtom@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nyxtom/spin.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nyxtom/spin.js/issues"
+  },
+  "main": "spin.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": ["terminal","spinner"]
+}
