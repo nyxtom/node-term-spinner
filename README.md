@@ -3,10 +3,10 @@
 Terminal spinner for node.js (port of visionmedia's [go-spin](https://github.com/visionmedia/go-spin), since I like the spinners by default)
 
 ## Getting Started
-Install the module with: `npm install node-term-spinner`
+Install the module with: `npm install term-spinner`
 
 ```javascript
-var spin = require('node-term-spinner');
+var spin = require('term-spinner');
 var spinner = spin.new();
 setInterval(function () {
 	spinner.next();
