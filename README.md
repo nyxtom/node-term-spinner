@@ -1,4 +1,4 @@
-# node-term-spinner
+# term-spinner
 
 Terminal spinner for node.js (port of visionmedia's [go-spin](https://github.com/visionmedia/go-spin), since I like the spinners by default)
 
