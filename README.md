@@ -1,12 +1,12 @@
-# spin.js [![Build Status](https://secure.travis-ci.org/nyxtom/spin.js.png?branch=master)](http://travis-ci.org/nyxtom/spin.js)
+# node-term-spinner
 
 Terminal spinner for node.js (port of visionmedia's [go-spin](https://github.com/visionmedia/go-spin), since I like the spinners by default)
 
 ## Getting Started
-Install the module with: `npm install spin.js`
+Install the module with: `npm install node-term-spinner`
 
 ```javascript
-var spin = require('spin.js');
+var spin = require('node-term-spinner');
 var spinner = spin.new();
 setInterval(function () {
 	spinner.next();

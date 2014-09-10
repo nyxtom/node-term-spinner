@@ -1,18 +1,18 @@
 {
-  "name": "spin.js",
+  "name": "term-spinner",
   "description": "Terminal spinner for node.js (port of visionmedia's go-spin, since I like the spinners by default)",
-  "version": "0.1.0",
-  "homepage": "https://github.com/nyxtom/spin.js",
+  "version": "1.0",
+  "homepage": "https://github.com/nyxtom/node-term-spinner.js",
   "author": {
     "name": "Thomas Holloway",
     "email": "nyxtom@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nyxtom/spin.js.git"
+    "url": "git://github.com/nyxtom/node-term-spinner.git"
   },
   "bugs": {
-    "url": "https://github.com/nyxtom/spin.js/issues"
+    "url": "https://github.com/nyxtom/node-term-spinner/issues"
   },
   "main": "spin.js",
   "engines": {
