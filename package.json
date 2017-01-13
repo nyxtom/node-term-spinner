@@ -18,5 +18,6 @@
   "engines": {
     "node": ">= 0.8.0"
   },
+  "license": "MIT",
   "keywords": ["terminal","spinner"]
 }
